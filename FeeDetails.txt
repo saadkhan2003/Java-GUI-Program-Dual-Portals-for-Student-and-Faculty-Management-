@@ -1,0 +1,1 @@
+Bank Slip No. : 12 // Date : 24-may-2023  Name : Muhammad Saad Khan  // PhoneNo. : 03218685488 // Batch : 10 // Semester : 2nd // Bank : UBL // Program Code : 07// Amount : 29342// Purpose : AdmissionFee
